@@ -10,7 +10,10 @@ https://itnext.io/a-few-handy-vue-js-tricks-832703cff426 - VUE tricks <br>
 https://github.com/tobiasahlin/SpinKit - SPinners UI <br>
 http://jsraccoon.ru/ - JS examples <br>
 https://github.com/quasarframework/quasar-awesome - Quasar info <br>
-https://github.com/zmts/beauty-vuejs-boilerplate - VUE JS template
+https://github.com/zmts/beauty-vuejs-boilerplate - VUE JS template <br>
+https://github.com/lydiahallie/javascript-questions/tree/master/ru-RU - JS questions <br>
+https://nucleoapp.com/tool/icon-transition - Icon transition generator <br>
+https://www.happyhues.co/palettes/14 - Color palettes <br>
 
 ## For IOS bugs
 https://blog.zverit.com/frontend/2017/11/11/prevent-scroll-body-modal-ios/ <br>
